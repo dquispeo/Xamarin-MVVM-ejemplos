@@ -10,7 +10,8 @@ namespace Lab11MVVM
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            //MainPage = new MainPage();
+            MainPage = new View.Calculadora();
         }
 
         protected override void OnStart()
