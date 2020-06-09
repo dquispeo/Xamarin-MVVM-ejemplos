@@ -13,3 +13,7 @@ E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\Xa
 E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\Lab11MVVM.dll
 E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\ref\Lab11MVVM.dll
 E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\Lab11MVVM.pdb
+E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\View\SimpleDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\View\InteractiveDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\View\CommandDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab11MVVM\Lab11MVVM\Lab11MVVM\obj\Debug\netstandard2.0\View\Operaciones.xaml.g.cs

@@ -11,7 +11,11 @@ namespace Lab11MVVM
             InitializeComponent();
 
             //MainPage = new MainPage();
-            MainPage = new View.Calculadora();
+            //MainPage = new View.Calculadora();
+            //MainPage = new View.SimpleDemo();
+            //MainPage = new View.InteractiveDemo();
+            //MainPage = new View.CommandDemo();
+            MainPage = new View.Operaciones();
         }
 
         protected override void OnStart()
